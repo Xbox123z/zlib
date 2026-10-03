@@ -30,6 +30,10 @@ English | [中文](README.zh.md)
 🎨 **Themes** — auto, mocha, latte, dracula, tokyo, nord, gruvbox  
 🌐 **Proxy & custom domain** support for restricted networks  
 
+## Android client
+
+A native Android port of this client is available: [Xbox123z/zlib-android](https://github.com/Xbox123z/zlib-android) — Kotlin + Jetpack Compose, with search, filters, book details, downloads, history, quota, Send-to-Kindle, domain doctor, proxy and themes, mirroring the CLI feature set.
+
 ## Install
 
 **Homebrew** (macOS / Linux):

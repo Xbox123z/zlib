@@ -30,6 +30,10 @@ Z-Library 命令行客户端。
 🎨 **主题** — auto、mocha、latte、dracula、tokyo、nord、gruvbox  
 🌐 **代理和自定义域名** — 支持受限网络环境  
 
+## 安卓客户端
+
+本项目的原生安卓移植版：[Xbox123z/zlib-android](https://github.com/Xbox123z/zlib-android)，Kotlin + Jetpack Compose 实现，覆盖搜索、筛选、详情、下载、历史、配额、Kindle 投递、域名诊断、代理与主题等功能，与命令行版功能一致。
+
 ## 安装
 
 **Homebrew**（macOS / Linux）：
